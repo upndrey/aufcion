@@ -1,0 +1,6 @@
+.myStyle {
+  color: red;
+  &>div {
+    color: blue;
+  }
+}
